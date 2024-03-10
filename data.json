@@ -1,0 +1,376 @@
+{
+    "years": [
+        {
+            "2023": [
+                {
+                    "name": "Baldur's Gate 3",
+                    "desc": "Baldur's Gate 3 is a 2023 role-playing video game developed and published by Belgian game developer Larian Studios.",
+                    "link": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_3",
+                    "img": "./images/BaldursGate3.jpeg",
+                    "goty": true
+                },
+                {
+                    "name": "Alan Wake 2",
+                    "desc": "Alan Wake 2 is a 2023 survival horror video game developed by Remedy Entertainment and published by Epic Games Publishing.",
+                    "link": "https://en.wikipedia.org/wiki/Alan_Wake_2",
+                    "img": "./images/Alan_Wake_2_box_art.png",
+                    "goty": false
+                },
+                {
+                    "name": "The Legend of Zelda: Tears of the Kingdom",
+                    "desc": "The Legend of Zelda: Tears of the Kingdom is a 2023 action-adventure game developed and published by Nintendo for the Nintendo Switch.",
+                    "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom",
+                    "img": "./images/The_Legend_of_Zelda_Tears_of_the_Kingdom_cover.png",
+                    "goty": false
+                },
+                {
+                    "name": "Resident Evil 4",
+                    "desc": "Resident Evil 4 is a 2023 survival horror game developed and published by Capcom.",
+                    "link": "https://en.wikipedia.org/wiki/Resident_Evil_4_(2023_video_game)",
+                    "img": "./images/Resident_Evil_4_remake_cover_art.png",
+                    "goty": false
+                },
+                {
+                    "name": "Super Mario Bros. Wonder",
+                    "desc": "Super Mario Bros. Wonder is a 2023 platform game developed and published by Nintendo for the Nintendo Switch.",
+                    "link": "https://en.wikipedia.org/wiki/Super_Mario_Bros._Wonder",
+                    "img": "./images/Mariowonder.png",
+                    "goty": false
+                }
+            ],
+            "2022": [
+                {
+                    "name": "Elden Ring",
+                    "desc": "Elden Ring is a 2022 action role-playing game developed by FromSoftware.",
+                    "link": "https://en.wikipedia.org/wiki/Elden_Ring",
+                    "img": "./images/EldenRing.jpeg",
+                    "goty": true
+                },
+                {
+                    "name": "Stray",
+                    "desc": "Stray is a 2022 adventure game developed by BlueTwelve Studio and published by Annapurna Interactive.",
+                    "link": "https://en.wikipedia.org/wiki/Stray_(video_game)",
+                    "img": "./images/Stray_cover_art.png",
+                    "goty": false
+                },
+                {
+                    "name": "A Plague Tale: Requiem",
+                    "desc": "A Plague Tale: Requiem is an action-adventure stealth video game developed by Asobo Studio and published by Focus Entertainment.",
+                    "link": "https://en.wikipedia.org/wiki/A_Plague_Tale:_Requiem",
+                    "img": "./images/A_Plague_Tale_Requiem_cover_art.png",
+                    "goty": false
+                },
+                {
+                    "name": "Horizon Forbidden West",
+                    "desc": "Horizon Forbidden West is a 2022 action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment.",
+                    "link": "https://en.wikipedia.org/wiki/Horizon_Forbidden_West",
+                    "img": "./images/Horizon_Forbidden_West_cover_art.png",
+                    "goty": false
+                },
+                {
+                    "name": "Xenoblade Chronicles 3",
+                    "desc": "Xenoblade Chronicles 3 is a 2022 action role-playing game developed by Monolith Soft and published by Nintendo for the Nintendo Switch.",
+                    "link": "https://en.wikipedia.org/wiki/Xenoblade_Chronicles_3",
+                    "img": "./images/Xenoblade_3.png",
+                    "goty": false
+                }
+            ],
+            "2021": [
+                {
+                    "name": "It Takes Two",
+                    "desc": "It Takes Two is a 2021 action-adventure platform video game developed by Hazelight Studios and published by Electronic Arts.",
+                    "link": "https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)",
+                    "img": "./images/It_Takes_Two_cover_art.png",
+                    "goty": true
+                },
+                {
+                    "name": "Resident Evil Village",
+                    "desc": "Resident Evil Village is a 2021 survival horror game developed and published by Capcom.",
+                    "link": "https://en.wikipedia.org/wiki/Resident_Evil_Village",
+                    "img": "./images/Resident_Evil_Village.png",
+                    "goty": false
+                },
+                {
+                    "name": "Psychonauts 2",
+                    "desc": "Psychonauts 2 is a platform game developed by Double Fine and published by Xbox Game Studios.",
+                    "link": "https://en.wikipedia.org/wiki/Psychonauts_2",
+                    "img": "./images/Psychonauts_2_cover.png",
+                    "goty": false
+                },
+                {
+                    "name": "Deathloop",
+                    "desc": "Deathloop is a first-person shooter immersive sim video game developed by Arkane Lyon and published by Bethesda Softworks.",
+                    "link": "https://en.wikipedia.org/wiki/Deathloop",
+                    "img": "./images/Deathloop_cover_art.png",
+                    "goty": false
+                },
+                {
+                    "name": "Metroid Dread",
+                    "desc": "Metroid Dread is a 2021 action-adventure game developed by MercurySteam and Nintendo and published by Nintendo for the Nintendo Switch.",
+                    "link": "https://en.wikipedia.org/wiki/Metroid_Dread",
+                    "img": "./images/Metroid_Dread_Banner.png",
+                    "goty": false
+                }
+            ],
+            "2020": [
+                {
+                    "name": "The Last of Us Part II",
+                    "desc": "The Last of Us Part II is a 2020 action-adventure game developed by Naughty Dog and published by Sony Interactive Entertainment.",
+                    "link": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II",
+                    "img": "./images/LastOfUs2.webp",
+                    "goty": true
+                },
+                {
+                    "name": "Ghost of Tsushima",
+                    "desc": "Ghost of Tsushima is a 2020 action-adventure game developed by Sucker Punch Productions and published by Sony Interactive Entertainment.",
+                    "link": "https://en.wikipedia.org/wiki/Ghost_of_Tsushima",
+                    "img": "./images/Ghost_of_Tsushima.png",
+                    "goty": false
+                },
+                {
+                    "name": "Doom Eternal",
+                    "desc": "Doom Eternal is a first-person shooter game developed by id Software and published by Bethesda Softworks.",
+                    "link": "https://en.wikipedia.org/wiki/Doom_Eternal",
+                    "img": "./images/Cover_Art_of_Doom_Eternal.png",
+                    "goty": false
+                },
+                {
+                    "name": "Animal Crossing: New Horizons",
+                    "desc": "Animal Crossing: New Horizons is a social simulation game developed and published by Nintendo in 2020 for the Nintendo Switch; it is the fifth main entry in the Animal Crossing series.",
+                    "link": "https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons",
+                    "img": "./images/Animal_Crossing_New_Horizons.png",
+                    "goty": false
+                },
+                {
+                    "name": "Hades",
+                    "desc": "Hades is a 2020 roguelike video game developed and published by Supergiant Games.",
+                    "link": "https://en.wikipedia.org/wiki/Hades_(video_game)",
+                    "img": "./images/Hades_cover_art.png",
+                    "goty": false
+                }
+            ],
+            "2019": [
+                {
+                    "name": "Sekiro: Shadows Die Twice",
+                    "desc": "Sekiro: Shadows Die Twice is a 2019 action-adventure game developed by FromSoftware.",
+                    "link": "https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice",
+                    "img": "./images/SekiroShadowsDieTwice.jpeg",
+                    "goty": true
+                },
+                {
+                    "name": "Control",
+                    "desc": "Control is a 2019 action-adventure game developed by Remedy Entertainment and published by 505 Games.",
+                    "link": "https://en.wikipedia.org/wiki/Control_(video_game)",
+                    "img": "./images/Control_game_cover_art.png",
+                    "goty": false
+                },
+                {
+                    "name": "Super Smash Bros. Ultimate",
+                    "desc": "Super Smash Bros. Ultimate is a 2018 crossover fighting game developed by Bandai Namco Studios and Sora Ltd. and published by Nintendo for the Nintendo Switch.",
+                    "link": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate",
+                    "img": "./images/Super_Smash_Bros._Ultimate.png",
+                    "goty": false
+                },
+                {
+                    "name": "Death Stranding",
+                    "desc": "Death Stranding is a 2019 action game developed by Kojima Productions and published by Sony Interactive Entertainment for the PlayStation 4.",
+                    "link": "https://en.wikipedia.org/wiki/Death_Stranding",
+                    "img": "./images/Death_Stranding.png",
+                    "goty": false
+                },
+                {
+                    "name": "Resident Evil 2",
+                    "desc": "Resident Evil 2 is a 2019 survival horror game developed and published by Capcom.",
+                    "link": "https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game)",
+                    "img": "./images/Resident_Evil_2_Remake.png",
+                    "goty": false
+                }
+            ],
+            "2018": [
+                {
+                    "name": "God of War",
+                    "desc": "God of War is an action-adventure game developed by Santa Monica Studio and published by Sony Interactive Entertainment.",
+                    "link": "https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)",
+                    "img": "./images/GodOfWar.jpeg",
+                    "goty": true
+                },
+                {
+                    "name": "Celeste",
+                    "desc": "Celeste is a 2018 platform game developed and published by indie studio Maddy Makes Games.",
+                    "link": "https://en.wikipedia.org/wiki/Celeste_(video_game)",
+                    "img": "./images/Celeste_box_art_full.png",
+                    "goty": false
+                },
+                {
+                    "name": "Monster Hunter: World",
+                    "desc": "Monster Hunter: World is a 2018 action role-playing game developed and published by Capcom.",
+                    "link": "https://en.wikipedia.org/wiki/Monster_Hunter:_World",
+                    "img": "./images/Monster_Hunter_World_cover_art.png",
+                    "goty": false
+                },
+                {
+                    "name": "Assassin's Creed Odyssey",
+                    "desc": "Assassin's Creed Odyssey is a 2018 action role-playing video game developed by Ubisoft Quebec and published by Ubisoft.",
+                    "link": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Odyssey",
+                    "img": "./images/ACOdysseyCoverArt.png",
+                    "goty": false
+                },
+                {
+                    "name": "Marvel's Spider-Man",
+                    "desc": "Marvel's Spider-Man is a 2018 action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment.",
+                    "link": "https://en.wikipedia.org/wiki/Spider-Man_(2018_video_game)",
+                    "img": "./images/Spider-Man_PS4_cover.png",
+                    "goty": false
+                }
+            ],
+            "2017": [
+                {
+                    "name": "The Legend of Zelda: Breath of the Wild",
+                    "desc": "The Legend of Zelda: Breath of the Wild is a 2017 action-adventure game developed and published by Nintendo for the Nintendo Switch and Wii U.",
+                    "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild",
+                    "img": "./images/ZeldaBreathOfTheWild.jpeg",
+                    "goty": true
+                },
+                {
+                    "name": "PUBG: Battlegrounds",
+                    "desc": "PUBG: Battlegrounds (previously known as PlayerUnknown's Battlegrounds) is a battle royale game developed by PUBG Studios and published by Krafton.",
+                    "link": "https://en.wikipedia.org/wiki/PUBG:_Battlegrounds",
+                    "img": "./images/Pubgbattlegrounds.png",
+                    "goty": false
+                },
+                {
+                    "name": "Horizon_Zero_Dawn",
+                    "desc": "Horizon Zero Dawn is a 2017 action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment.",
+                    "link": "https://en.wikipedia.org/wiki/Horizon_Zero_Dawn",
+                    "img": "./images/Horizon_Zero_Dawn.png",
+                    "goty": false
+                },
+                {
+                    "name": "Persona 5",
+                    "desc": "Persona 5 is a 2016 role-playing video game developed by P-Studio and published by Atlus.",
+                    "link": "https://en.wikipedia.org/wiki/Persona_5",
+                    "img": "./images/Pubgbattlegrounds.png",
+                    "goty": false
+                },
+                {
+                    "name": "Super Mario Odyssey",
+                    "desc": "Super Mario Odyssey is a 2017 platform game developed and published by Nintendo for the Nintendo Switch.",
+                    "link": "https://en.wikipedia.org/wiki/Super_Mario_Odyssey",
+                    "img": "./images/Super_Mario_Odyssey.png",
+                    "goty": false
+                }
+            ],
+            "2016": [
+                {
+                    "name": "Overwatch",
+                    "desc": "Overwatch (retroactively referred to as Overwatch 1) was a 2016 team-based multiplayer first-person shooter game by Blizzard Entertainment.",
+                    "link": "https://en.wikipedia.org/wiki/Overwatch_(video_game)",
+                    "img": "./images/Overwatch.png",
+                    "goty": true
+                },
+                {
+                    "name": "INSIDE",
+                    "desc": "Inside is a puzzle-platform game developed and published by Playdead in 2016, and was released on June 29, for Xbox One, Windows, on July 7, and August 23, for PlayStation 4.",
+                    "link": "https://en.wikipedia.org/wiki/Inside_(video_game)",
+                    "img": "./images/INSIDE_Xbox_One_cover_art.png",
+                    "goty": false
+                },
+                {
+                    "name": "Titanfall 2",
+                    "desc": "Titanfall 2 is a first-person shooter video game, developed by Respawn Entertainment and published by Electronic Arts.",
+                    "link": "https://en.wikipedia.org/wiki/Titanfall_2",
+                    "img": "./images/Titanfall_2.png",
+                    "goty": false
+                },
+                {
+                    "name": "Doom",
+                    "desc": "Doom is a 2016 first-person shooter video game developed by id Software and published by Bethesda Softworks.",
+                    "link": "https://en.wikipedia.org/wiki/Doom_(2016_video_game)",
+                    "img": "./images/Doom_Cover.png",
+                    "goty": false
+                },
+                {
+                    "name": "Uncharted 4: A Thief's End",
+                    "desc": "Uncharted 4: A Thief's End is a 2016 action-adventure game developed by Naughty Dog and published by Sony Computer Entertainment.",
+                    "link": "https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End",
+                    "img": "./images/Uncharted_4_box_artwork.png",
+                    "goty": false
+                }
+            ],
+            "2015": [
+                {
+                    "name": "The Witcher 3: Wild Hunt",
+                    "desc": "The Witcher 3: Wild Hunt is a 2015 action role-playing game developed and published by CD Projekt.",
+                    "link": "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt",
+                    "img": "./images/Witcher3WildHunt.jpeg",
+                    "goty": true
+                },
+                {
+                    "name": "Super Mario Maker",
+                    "desc": "Super Mario Maker is a 2015 platform game and game creation system developed and published by Nintendo for the Wii U, released worldwide in September 2015.",
+                    "link": "https://en.wikipedia.org/wiki/Super_Mario_Maker",
+                    "img": "./images/Super_Mario_Maker_Artwork.png",
+                    "goty": false
+                },
+                {
+                    "name": "Fallout 4",
+                    "desc": "Fallout 4 is a 2015 action role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks.",
+                    "link": "https://en.wikipedia.org/wiki/Fallout_4",
+                    "img": "./images/Fallout_4_cover_art.png",
+                    "goty": false
+                },
+                {
+                    "name": "Metal Gear Solid V: The Phantom Pain",
+                    "desc": "Metal Gear Solid V: The Phantom Pain is a 2015 action-adventure stealth video game developed by Kojima Productions and published by Konami.",
+                    "link": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain",
+                    "img": "./images/Metal_Gear_Solid_V_The_Phantom_Pain_cover.png",
+                    "goty": false
+                },
+                {
+                    "name": "Bloodborne",
+                    "desc": "Bloodborne is a 2015 action role-playing game developed by FromSoftware and published by Sony Computer Entertainment for the PlayStation 4.",
+                    "link": "https://en.wikipedia.org/wiki/Bloodborne",
+                    "img": "./images/Bloodborne_Cover_Wallpaper.png",
+                    "goty": false
+                }
+            ],
+            "2014": [
+                {
+                    "name": "Dragon Age: Inquisition",
+                    "desc": "Dragon Age: Inquisition is a 2014 action role-playing video game developed by BioWare and published by Electronic Arts.",
+                    "link": "https://en.wikipedia.org/wiki/Dragon_Age:_Inquisition",
+                    "img": "./images/DragonAgeInquisition.jpeg",
+                    "goty": true
+                },
+                {
+                    "name": "Middle-earth: Shadow of Mordor",
+                    "desc": "Middle-earth: Shadow of Mordor is a 2014 action-adventure video game developed by Monolith Productions and published by Warner Bros. Interactive Entertainment.",
+                    "link": "https://en.wikipedia.org/wiki/Middle-earth:_Shadow_of_Mordor",
+                    "img": "./images/Shadow_of_Mordor_cover_art.png",
+                    "goty": false
+                },
+                {
+                    "name": "Bayonetta 2",
+                    "desc": "Bayonetta 2 is a 2014 action-adventure hack and slash video game developed by PlatinumGames and published by Nintendo.",
+                    "link": "https://en.wikipedia.org/wiki/Bayonetta_2",
+                    "img": "./images/Bayonetta_2_box_artwork.png",
+                    "goty": false
+                },
+                {
+                    "name": "Dark Souls 2",
+                    "desc": "Dark Souls II is a 2014 action role-playing game developed by FromSoftware.",
+                    "link": "https://en.wikipedia.org/wiki/Dark_Souls_II",
+                    "img": "./images/Dark_Souls_II_cover.png",
+                    "goty": false
+                },
+                {
+                    "name": "Hearthstone",
+                    "desc": "Hearthstone is a free-to-play online digital collectible card game developed and published by Blizzard Entertainment.",
+                    "link": "https://en.wikipedia.org/wiki/Hearthstone",
+                    "img": "./images/Hearthstone_cover_art.png",
+                    "goty": false
+                }
+            ]
+        }
+    ]
+}
